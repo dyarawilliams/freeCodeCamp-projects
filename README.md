@@ -10,3 +10,11 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 5. Build a Personal Portfolio Webpage - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/KKMYvdV)
 
 <img src="https://github.com/dyarawilliams/freeCodeCamp-projects/blob/main/images/rwd-certitfication-112020.PNG?raw=true" width="500">
+
+## JavaScript Algorithms and Data Structures Certification (In Progress)
+
+1. Palidrome Checker -
+2. Roman Numeral Converter -
+3. Caesars Cipher -
+4. Telephone Number Validator -
+5. Cash Register -
