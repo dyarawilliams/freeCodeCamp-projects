@@ -3,34 +3,93 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 
 ## Certified Full Stack Developer Curriculum (In Progress)
 
-<details>
-  <summary>1. Welcome</summary>
-</details>
+<details><summary>HTML</summary><blockquote>
+<details><summary>Basic HTML</summary><blockquote>
+  
+- [x] Build a Curriculum Outline
+- [x] Welcome Message from Quincy Larson
+- [x] Debug Camperbot's Profile Page
+- [x] Understanding HTML Attributes and the HTML Boilerplate
+- [x] Build a Cat Photo App
+- [x] Build a Recipe Page
+- [x] HTML Fundatmentals
+- [x] Build a Travel Agency Page
+- [x] Working with Media
+- [x] Build a Video Compilation Page
+- [x] Working with Links
+- [x] Basic HTML Review
+- [x] Basic HTML Quiz
+</blockquote></details>
+<details><summary>Semantic HTML</summary><blockquote>
+  
+- [ ] Importance of Semantic HTML
+- [ ] Build a Cat Blog Page
+- [ ] Build an Event Hub
+- [ ] Semantic HTML Review
+- [ ] Semantic HTML Quiz
+</blockquote></details>
+<details><summary>Forms and Tables</summary><blockquote>
+  
+- [ ] Working with Forms
+- [ ] Build a Hotel Feedback Form
+- [ ] Build a Survey Form
+- [ ] Working with Tables
+- [ ] Build a Final Exams Table
+- [ ] Build a Book Catalog Table
+- [ ] Working with HTML Tools
+- [ ] HTML Tables and Forms Review
+- [ ] HTML Tables and Forms Quiz
+</blockquote></details>
+<details><summary>Accessibility</summary><blockquote>
+  
+- [ ] Importance of Accessibility and Good HTML Structure
+- [ ] Build a Checkout Page
+- [ ] Design a Movie Review Page
+- [ ] Build a Multimedia Player
+- [ ] HTML Accessibility Review
+- [ ] HTML Accessibility Quiz
+</blockquote></details>
 
-1. Welcome
-    - [x] Getting Started with freeCodeCamp
-2. HTML
-    - [ ] Basic HTML
-    - [ ] Semantic HTML
-    - [ ] Forms and Tables
-    - [ ] Accessibility
-    - [ ] HTML Review
-3. CSS
-    - [ ] Computer Basics
-    - [ ] Basic CSS
-    - [ ] Design
-    - [ ] Absolute and Relative Units
-    - [ ] Pseudo Classes and Elements
-    - [ ] Colors
-    - [ ] Styling Forms
-    - [ ] The Box Model
-    - [ ] Flexbox
-4. JavaScript
-5. Front End Libraries
-6. Relational Databases (Coming Soon)
-7. Python (Coming Soon)
-8. Backend JavaScript (Coming Soon)
-9. Certified Full Stack Developer Exam (Coming Soon)
+- [ ] HTML Review
+</blockquote></details>
+
+
+
+<details><summary>CSS</summary><blockquote>
+
+- [ ] Computer Basics
+- [ ] Basic CSS
+- [ ] Design
+- [ ] Absolute and Relative Units
+- [ ] Pseudo Classes and Elements
+- [ ] Colors
+- [ ] Styling Forms
+- [ ] The Box Model
+- [ ] Flexbox
+</blockquote></details>
+<details><summary>JavaScript</summary><blockquote>
+  
+</blockquote></details>
+
+<details><summary>Front End Libraries</summary><blockquote>
+  
+</blockquote></details>
+
+<details><summary>Relational Databases (Coming Soon)</summary><blockquote>
+  
+</blockquote></details>
+
+<details><summary>Python (Coming Soon)</summary><blockquote>
+  
+</blockquote></details>
+
+<details><summary>Backend JavaScript (Coming Soon)</summary><blockquote>
+  
+</blockquote></details>
+
+<details><summary>Certified Full Stack Developer Exam (Coming Soon)</summary><blockquote>
+  
+</blockquote></details>
 
 ## Archived Course Work
 
