@@ -3,7 +3,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 
 ## Certified Full Stack Developer Curriculum (In Progress)
 
-<details><summary>HTML</summary><blockquote>
+<details open><summary>HTML</summary><blockquote>
 <details><summary>Basic HTML</summary><blockquote>
   
 - [x] Build a Curriculum Outline
@@ -20,9 +20,9 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Basic HTML Review
 - [x] Basic HTML Quiz
 </blockquote></details>
-<details><summary>Semantic HTML</summary><blockquote>
+<details open><summary>Semantic HTML</summary><blockquote>
   
-- [ ] Importance of Semantic HTML
+- [x] Importance of Semantic HTML
 - [ ] Build a Cat Blog Page
 - [ ] Build an Event Hub
 - [ ] Semantic HTML Review
