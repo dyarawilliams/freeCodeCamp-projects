@@ -9,12 +9,16 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Build a Curriculum Outline
 - [x] Welcome Message from Quincy Larson
 - [x] Debug Camperbot's Profile Page
-- [x] Understanding HTML Attributes and the HTML Boilerplate
+- [x] Understanding HTML Attributes
+- [x] Debug a Pet Adoption Page
+- [x] Understanding the HTML Boilerplate
 - [x] Build a Cat Photo App
 - [x] Build a Recipe Page
 - [x] HTML Fundatmentals
 - [x] Build a Travel Agency Page
-- [x] Working with Media
+- [x] Working with Audio and Video Elements
+- [x] Working with Images and SVGs
+- [x] Working with the iframe Element
 - [x] Build a Video Compilation Page
 - [x] Working with Links
 - [x] Basic HTML Review
@@ -23,7 +27,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 <details open><summary>Semantic HTML</summary><blockquote>
   
 - [x] Importance of Semantic HTML
-- [ ] Build a Cat Blog Page
+- [x] Build a Cat Blog Page
 - [ ] Build an Event Hub
 - [ ] Semantic HTML Review
 - [ ] Semantic HTML Quiz
