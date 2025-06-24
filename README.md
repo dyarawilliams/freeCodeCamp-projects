@@ -24,15 +24,15 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Basic HTML Review
 - [x] Basic HTML Quiz
 </blockquote></details>
-<details open><summary>Semantic HTML</summary><blockquote>
+<details><summary>Semantic HTML</summary><blockquote>
   
 - [x] Importance of Semantic HTML
 - [x] Build a Cat Blog Page
 - [x] Build an Event Hub
-- [ ] Semantic HTML Review
-- [ ] Semantic HTML Quiz
+- [x] Semantic HTML Review
+- [x] Semantic HTML Quiz
 </blockquote></details>
-<details><summary>Forms and Tables</summary><blockquote>
+<details open><summary>Forms and Tables</summary><blockquote>
   
 - [ ] Working with Forms
 - [ ] Build a Hotel Feedback Form
