@@ -28,7 +28,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
   
 - [x] Importance of Semantic HTML
 - [x] Build a Cat Blog Page
-- [ ] Build an Event Hub
+- [x] Build an Event Hub
 - [ ] Semantic HTML Review
 - [ ] Semantic HTML Quiz
 </blockquote></details>
