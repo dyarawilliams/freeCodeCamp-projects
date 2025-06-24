@@ -34,9 +34,9 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 </blockquote></details>
 <details open><summary>Forms and Tables</summary><blockquote>
   
-- [ ] Working with Forms
-- [ ] Build a Hotel Feedback Form
-- [ ] Build a Survey Form
+- [x] Working with Forms
+- [x] <a href="https://codepen.io/dyarawilliams/pen/WbvLZzJ" target="_blank">Build a Hotel Feedback Form</a>
+- [x] <a href="https://codepen.io/dyarawilliams/pen/PwqXOMv" target="_blank">Build a Survey Form</a>
 - [ ] Working with Tables
 - [ ] Build a Final Exams Table
 - [ ] Build a Book Catalog Table
