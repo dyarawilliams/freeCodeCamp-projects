@@ -104,4 +104,6 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Build a Technical Documentation Page - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/LYZaVeZ)
 - [x] Build a Personal Portfolio Webpage - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/KKMYvdV)
 
-<img src="https://github.com/dyarawilliams/freeCodeCamp-projects/blob/main/images/rwd-certitfication-112020.PNG?raw=true" width="500">
+<a href="https://www.freecodecamp.org/certification/dyarawilliams/responsive-web-design" target="_blank">
+  <img src="https://github.com/dyarawilliams/freeCodeCamp-projects/blob/main/images/rwd-certitfication-112020.PNG?raw=true" width="500">
+</a>
