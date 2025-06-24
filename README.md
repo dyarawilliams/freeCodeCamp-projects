@@ -47,6 +47,9 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 <details><summary>Accessibility</summary><blockquote>
   
 - [ ] Importance of Accessibility and Good HTML Structure
+- [ ] Working with Accessible Tables and Forms
+- [ ] Introduction to ARIA
+- [ ] Working with Accessible Media Elements
 - [ ] Build a Checkout Page
 - [ ] Design a Movie Review Page
 - [ ] Build a Multimedia Player
