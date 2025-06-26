@@ -37,12 +37,12 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Working with Forms
 - [x] <a href="https://codepen.io/dyarawilliams/pen/WbvLZzJ" target="_blank">Build a Hotel Feedback Form</a>
 - [x] <a href="https://codepen.io/dyarawilliams/pen/PwqXOMv" target="_blank">Build a Survey Form</a>
-- [ ] Working with Tables
-- [ ] Build a Final Exams Table
-- [ ] Build a Book Catalog Table
-- [ ] Working with HTML Tools
-- [ ] HTML Tables and Forms Review
-- [ ] HTML Tables and Forms Quiz
+- [x] Working with Tables
+- [x] <a href="https://codepen.io/dyarawilliams/pen/NPqoXJr" target="_blank">Build a Final Exams Table</a>
+- [x] <a href="https://codepen.io/dyarawilliams/pen/jEPdZKz" target="_blank">Build a Book Catalog Table</a>
+- [x] Working with HTML Tools
+- [x] HTML Tables and Forms Review
+- [x] HTML Tables and Forms Quiz - 100%
 </blockquote></details>
 <details><summary>Accessibility</summary><blockquote>
   
