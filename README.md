@@ -1,7 +1,7 @@
 # freeCodeCamp-projects
 Collection of all my projects I've created while going through the freeCodeCamp's curriculums.
 
-## [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) (In Progress)
+## [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) (🚧)
 
 <details open><summary>HTML</summary><blockquote>
 <details><summary>Basic HTML</summary><blockquote>
