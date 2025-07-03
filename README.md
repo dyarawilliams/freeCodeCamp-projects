@@ -32,7 +32,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Semantic HTML Review
 - [x] Semantic HTML Quiz
 </blockquote></details>
-<details open><summary>Forms and Tables</summary><blockquote>
+<details><summary>Forms and Tables</summary><blockquote>
   
 - [x] Working with Forms
 - [x] <a href="https://codepen.io/dyarawilliams/pen/WbvLZzJ" target="_blank">Build a Hotel Feedback Form</a>
@@ -44,9 +44,9 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] HTML Tables and Forms Review
 - [x] HTML Tables and Forms Quiz - 100%
 </blockquote></details>
-<details><summary>Accessibility</summary><blockquote>
+<details open><summary>Accessibility</summary><blockquote>
   
-- [ ] Importance of Accessibility and Good HTML Structure
+- [x] Importance of Accessibility and Good HTML Structure
 - [ ] Working with Accessible Tables and Forms
 - [ ] Introduction to ARIA
 - [ ] Working with Accessible Media Elements
