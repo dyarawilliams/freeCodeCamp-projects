@@ -100,7 +100,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 
 ## Archived Course Work
 
-### Responsive Web Design Certification (Legacy)
+### [Responsive Web Design Certification (Legacy)](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [x] Build a Tribute Page - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/PozGapR)
 - [x] Build a Survey Form - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/BazQMow)
 - [x] Build a Product Landing Page - [Live Example on Codepen](https://codepen.io/dyarawilliams/full/GRqXyqy)
