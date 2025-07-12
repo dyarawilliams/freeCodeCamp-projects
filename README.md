@@ -50,7 +50,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Working with Accessible Tables and Forms
 - [x] Introduction to ARIA
 - [x] Working with Accessible Media Elements
-- [ ] Build a Checkout Page
+- [x] Build a Checkout Page
 - [ ] Design a Movie Review Page
 - [ ] Build a Multimedia Player
 - [ ] HTML Accessibility Review
