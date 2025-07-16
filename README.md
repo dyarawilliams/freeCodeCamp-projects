@@ -53,8 +53,8 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Build a Checkout Page
 - [x] <a href="https://codepen.io/dyarawilliams/pen/PwPPwOv" target="_blank">Design a Movie Review Page</a>
 - [x] <a href="https://codepen.io/dyarawilliams/pen/MYaawrG" target="_blank">Build a Multimedia Player</a>
-- [ ] HTML Accessibility Review
-- [ ] HTML Accessibility Quiz
+- [x] HTML Accessibility Review
+- [x] HTML Accessibility Quiz
 </blockquote></details>
 
 - [ ] HTML Review
