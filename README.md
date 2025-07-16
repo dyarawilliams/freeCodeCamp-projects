@@ -51,7 +51,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] Introduction to ARIA
 - [x] Working with Accessible Media Elements
 - [x] Build a Checkout Page
-- [ ] Design a Movie Review Page
+- [x] <a href="https://codepen.io/dyarawilliams/pen/PwPPwOv" target="_blank">Design a Movie Review Page</a>
 - [ ] Build a Multimedia Player
 - [ ] HTML Accessibility Review
 - [ ] HTML Accessibility Quiz
