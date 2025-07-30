@@ -3,7 +3,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 
 ## [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) (🚧)
 
-<details open><summary>HTML</summary><blockquote>
+<details><summary>HTML ✅</summary><blockquote>
 <details><summary>Basic HTML</summary><blockquote>
   
 - [x] Build a Curriculum Outline
@@ -44,7 +44,7 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] HTML Tables and Forms Review
 - [x] HTML Tables and Forms Quiz - 100%
 </blockquote></details>
-<details open><summary>Accessibility</summary><blockquote>
+<details><summary>Accessibility</summary><blockquote>
   
 - [x] Importance of Accessibility and Good HTML Structure
 - [x] Working with Accessible Tables and Forms
@@ -57,12 +57,12 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] HTML Accessibility Quiz
 </blockquote></details>
 
-- [ ] HTML Review
+- [x] HTML Review
 </blockquote></details>
 
 
 
-<details><summary>CSS</summary><blockquote>
+<details open><summary>CSS</summary><blockquote>
 
 - [ ] Computer Basics
 - [ ] Basic CSS
@@ -110,3 +110,11 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 <a href="https://www.freecodecamp.org/certification/dyarawilliams/responsive-web-design" target="_blank">
   <img src="https://github.com/dyarawilliams/freeCodeCamp-projects/blob/main/images/rwd-certitfication-112020.PNG?raw=true" width="500">
 </a>
+
+---
+
+#### Notes:
+
+- ✅ Completed
+- 🚧 Work in progress
+- ⛔ No Entry
