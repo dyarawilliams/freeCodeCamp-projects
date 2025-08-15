@@ -63,27 +63,27 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 <details open><summary>CSS 🚧</summary><blockquote>
 <details><summary>Computer Basics</summary><blockquote>
   
-- [ ] Understanding Computer, Internet, and Tooling Basics
-- [ ] Working with File Systems
-- [ ] Browsing the Web Effectively
-- [ ] Computer Basics Review
-- [ ] Computer Basics Quiz
+- [x] Understanding Computer, Internet, and Tooling Basics
+- [x] Working with File Systems
+- [x] Browsing the Web Effectively
+- [x] Computer Basics Review
+- [x] Computer Basics Quiz
   
 </blockquote></details>
-<details><summary>Basic CSS</summary><blockquote>
+<details open><summary>Basic CSS</summary><blockquote>
   
 - [ ] What Is CSS?
 - [ ] Design a Cafe Menu
-- [ ]  Design a Business Card
-- [ ]  CSS Specificity, the Cascade Algorithm, and Inheritance
-- [ ]  Basic CSS Review
-- [ ]  Basic CSS Quiz
-- [ ]  Styling Lists and Links
-- [ ]  Build a Stylized To-Do List
-- [ ]  Working with Backgrounds and Borders
-- [ ]  Design a Blog Post Card
-- [ ]  Lists, Links, CSS Background and Borders Review
-- [ ]  CSS Backgrounds and Borders Quiz
+- [ ] Design a Business Card
+- [ ] CSS Specificity, the Cascade Algorithm, and Inheritance
+- [ ] Basic CSS Review
+- [ ] Basic CSS Quiz
+- [ ] Styling Lists and Links
+- [ ] Build a Stylized To-Do List
+- [ ] Working with Backgrounds and Borders
+- [ ] Design a Blog Post Card
+- [ ] Lists, Links, CSS Background and Borders Review
+- [ ] CSS Backgrounds and Borders Quiz
 </blockquote></details>
 <details><summary>Design</summary><blockquote>
   
