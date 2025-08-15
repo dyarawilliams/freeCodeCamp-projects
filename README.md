@@ -60,42 +60,146 @@ Collection of all my projects I've created while going through the freeCodeCamp'
 - [x] HTML Review
 </blockquote></details>
 
-
-
-<details open><summary>CSS</summary><blockquote>
-
-- [ ] Computer Basics
-- [ ] Basic CSS
-- [ ] Design
-- [ ] Absolute and Relative Units
-- [ ] Pseudo Classes and Elements
-- [ ] Colors
-- [ ] Styling Forms
-- [ ] The Box Model
-- [ ] Flexbox
-</blockquote></details>
-<details><summary>JavaScript</summary><blockquote>
+<details open><summary>CSS 🚧</summary><blockquote>
+<details><summary>Computer Basics</summary><blockquote>
   
+- [ ] Understanding Computer, Internet, and Tooling Basics
+- [ ] Working with File Systems
+- [ ] Browsing the Web Effectively
+- [ ] Computer Basics Review
+- [ ] Computer Basics Quiz
+  
+</blockquote></details>
+<details><summary>Basic CSS</summary><blockquote>
+  
+- [ ] What Is CSS?
+- [ ] Design a Cafe Menu
+- [ ]  Design a Business Card
+- [ ]  CSS Specificity, the Cascade Algorithm, and Inheritance
+- [ ]  Basic CSS Review
+- [ ]  Basic CSS Quiz
+- [ ]  Styling Lists and Links
+- [ ]  Build a Stylized To-Do List
+- [ ]  Working with Backgrounds and Borders
+- [ ]  Design a Blog Post Card
+- [ ]  Lists, Links, CSS Background and Borders Review
+- [ ]  CSS Backgrounds and Borders Quiz
+</blockquote></details>
+<details><summary>Design</summary><blockquote>
+  
+- [ ] User Interface Design Fundamentals
+- [ ] User-Centered Design
+- [ ] Common Design Tools
+- [ ] Design Fundamentals Review
+- [ ] Design Fundamentals Quiz
+</blockquote></details>
+<details><summary>Absolute and Relative Units</summary><blockquote>
+  
+- [ ] Working with Relative and Absolute Units
+- [ ] Build an Event Flyer Page
+- [ ] CSS Relative and Absolute Units Review
+- [ ] CSS Relative and Absolute Units Quiz
+</blockquote></details>
+<details><summary>Pseudo Classes and Elements</summary><blockquote>
+  
+- [ ] Working with Pseudo-Classes and Pseudo-Elements in CSS
+- [ ] Design a Greeting Card
+- [ ] Build a Job Application Form
+- [ ] CSS Pseudo-classes Review
+- [ ] CSS Psuedo-classes Quiz
+</blockquote></details>
+<details><summary> Colors</summary><blockquote>
+  
+- [ ] Working with Colors in CSS
+- [ ] Build a Set of Colored Markers
+- [ ] Design a Set of Colored Boxes
+- [ ] CSS Colors Review
+- [ ] CSS Colors Quiz
+</blockquote></details>
+<details><summary>Styling Forms</summary><blockquote>
+  
+- [ ] Best Practices for Styling Forms
+- [ ] Design a Registration Form
+- [ ] Design a Contact Form
+- [ ] Styling Forms Review
+- [ ] Styling Forms Quiz
+</blockquote></details>
+<details><summary>The Box Model</summary><blockquote>
+  
+- [ ] Working with CSS Transforms, Overflow, and Filters
+- [ ] Design a Rothko Painting
+- [ ] Build a Confidential Email Page
+- [ ] CSS Layouts and Effects Review
+- [ ] CSS Layout and Effects Quiz
+</blockquote></details>
+<details><summary>Flexbox</summary><blockquote>
+  
+- [ ] Working with CSS Flexbox
+- [ ] Build a Flexbox Photo Gallery
+- [ ] Build a Page of Playing Cards
+- [ ] CSS Flexbox Review
+- [ ] CSS Flexbox Quiz
+</blockquote></details>
+<details><summary>Typography</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Accessibility</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Positioning</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Attribute Selectors</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Responsive Design</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Variables</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Grid</summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+<details><summary>Animations</summary></summary><blockquote>
+  
+- [ ] 
+</blockquote></details>
+
+- [ ] CSS Review
+</blockquote></details>
+
+
+
+<details><summary>JavaScript</summary><blockquote>
+  Coming Soon
 </blockquote></details>
 
 <details><summary>Front End Libraries</summary><blockquote>
-  
+  Coming Soon
 </blockquote></details>
 
 <details><summary>Relational Databases (Coming Soon)</summary><blockquote>
-  
+  Coming Soon
 </blockquote></details>
 
 <details><summary>Python (Coming Soon)</summary><blockquote>
-  
+  Coming Soon
 </blockquote></details>
 
 <details><summary>Backend JavaScript (Coming Soon)</summary><blockquote>
-  
+  Coming Soon
 </blockquote></details>
 
 <details><summary>Certified Full Stack Developer Exam (Coming Soon)</summary><blockquote>
-  
+  Coming Soon
 </blockquote></details>
 
 ## Archived Course Work
